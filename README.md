@@ -1,4 +1,12 @@
-### Hi there 👋
+# Bienvenido a mi GitHub
+
+¡Hola! Mi nombre es Jaime Salvatierra, soy un desarrollador web apasionado por crear soluciones creativas e innovadoras en línea. Mi experiencia se centra en el desarrollo de aplicaciones web utilizando tecnologías como HTML, CSS, JavaScript y ReactJS.
+
+En mi repositorio, encontrarás diversos proyectos que he creado utilizando estas tecnologías, desde pequeñas aplicaciones hasta proyectos más grandes. Siéntete libre de explorar y clonar los proyectos que te interesen para aprender y mejorar tus habilidades como desarrollador.
+
+Si tienes alguna pregunta o simplemente quieres conectarte conmigo, no dudes en enviarme un mensaje o seguirme en mis redes sociales. Me encantaría conocer a otros desarrolladores y colaborar en proyectos emocionantes juntos.
+
+¡Gracias por visitar mi GitHub y espero que encuentres algo interesante aquí!
 
 <!--
 **jaimesan1231/jaimesan1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
