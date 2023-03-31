@@ -7,6 +7,7 @@ En mi repositorio, encontrarás diversos proyectos que he creado utilizando esta
 ¡Gracias por visitar mi GitHub y espero que encuentres algo interesante aquí!
 ## Skills
 ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoWidth=30)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&logoWidth=30)
 <!--
 **jaimesan1231/jaimesan1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
